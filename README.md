@@ -1,10 +1,8 @@
 # Rift-Port
 The of the early versions of rift ported to 6.21
+Credit to Makks as this is his source code
 
-
-**Credit to Makks as this is his source code**
-
-**Bugs**
+``Bugs``
 
 90% of the time it crashes after loading screen drops, im still trying to fix this
 
